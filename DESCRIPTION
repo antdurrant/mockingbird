@@ -1,0 +1,10 @@
+Package: mockingbird
+Title: Combinatory Logic For R
+Version: 0.0.0.9000
+Authors@R: 
+    person("Anthony", "Durrant", , "antdurrant@gmail.com", role = c("aut", "cre"))
+Description: Functionality of the birds described in Smyllan's Combinatory Logic book "To Mock a Mockingbird"
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
